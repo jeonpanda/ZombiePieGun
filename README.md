@@ -1,2 +1,1 @@
-# -
-엔트리 블록코딩 - '좀비파이건'게임
+[https://playentry.org/project/5f4b1ba05fcfba7caebefcea](https://playentry.org/project/5f4b1ba05fcfba7caebefcea)
